@@ -23,7 +23,7 @@
         <div class="mycontainer">
             <div class="heading_container heading_center">
                 <h2>
-                    Our <span>products</span>
+                    More <span>Products</span>
                 </h2>
             </div>
 
